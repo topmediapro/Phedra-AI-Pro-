@@ -4,6 +4,11 @@
 Phedra is an AI image editor/creator that can actually "see" and understand any image with true AI design capabilities...  Every element. Every detail. Every possibility. 
 With Phedra you can get the exact design you want with pinpoint accuray simply by typing a few words!
 
+- Equipped with "Smart Vision" - Phedra can see your images and understand your commands to bring graphics to life like never before...
+- Speak Your Design - No typing necessary. Tell Phedra what you want to design in any langauge... 
+- Pre-loaded Library - Use Phedra's robust Design Library to create professional graphics across the hottest design categories!
+- Super-Easy UI - Zero design skills needed to produce exactly what you need for virtually any graphics project in seconds!
+
 ### The Phedra Design Genealogy!
 _Imagine being able to generate unlimited design variations and iterations. It is like genetics, where a parent design gives birth to several child designs, and each child design is also capable of mutating and producing its own sub-children, creating a simple yet powerful hierarchy of design variations._
 _It is like a Family Tree with Infinite Design Power! Your designs can mutate into endless possibilities with Phedra's powerful AI architecture._
